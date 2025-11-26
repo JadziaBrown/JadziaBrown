@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JadziaBrown
-- 👀 I’m interested in poetry, D&D, and creating new things!
-- 🌱 I’m currently learning the basics of web development.
+- 👀 I’m a 3D artist, web developer, and silly D&D nerd 
+- 🌱 I’m currently working on a 3D portfolio on Three.JS
 - 💞️ I’m hoping to collaborate on small projects soon.
 - 📫 How to reach me: Jadziabrown.business@gmail.com
 - 😄 Pronouns: She/Her
